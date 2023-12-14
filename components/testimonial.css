@@ -63,6 +63,9 @@
 
 
 
+
+
+
 @media(max-width: 991px) {
   .testimonial-testimonial {
     gap: var(--dl-space-space-unit);
@@ -112,6 +115,15 @@
     width: 100%;
   }
   .testimonial-root-class-name2 {
+    width: 100%;
+  }
+  .testimonial-root-class-name3 {
+    width: 100%;
+  }
+  .testimonial-root-class-name4 {
+    width: 100%;
+  }
+  .testimonial-root-class-name5 {
     width: 100%;
   }
 }
